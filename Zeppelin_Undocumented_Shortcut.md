@@ -1,5 +1,5 @@
-##This document lists some Zeppelin (base on ver. 0.8) keyboard shortcuts that are not listed in official document, or anywhere in internet. 
-###These shortcuts are for multi-cursor editing.
+## This document lists some Zeppelin (base on ver. 0.8) keyboard shortcuts that are not listed in official document, or anywhere in internet. 
+### These shortcuts are for multi-cursor editing.
 
 |Key Shortcut| Function|
 |-----------|-------------|
